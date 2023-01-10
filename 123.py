@@ -1,6 +1,7 @@
 l = [[1], 2, 3]
 print(l is l.copy())
 print(l[0] is l.copy()[0])
+### What is it?
 """
 SUM(buy_book.amount)
 
