@@ -13,3 +13,6 @@ LEFT JOIN genre ON genre.genre_id = book.genre_id
 ;
 
 """
+
+
+print('12345')
