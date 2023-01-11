@@ -10,7 +10,9 @@ FROM buy_book
 LEFT JOIN book ON buy_book_id = book.book_id
 LEFT JOIN genre ON genre.genre_id = book.genre_id
 
-;
+;  
+
+
 
 """
 
