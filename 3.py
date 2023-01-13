@@ -1,4 +1,3 @@
-
-"""COOL """
-"""WOW  WOW """
-"""Fdsh sldf o;djf ;osdjf osjfdo; jsdo;fisjo; fjsod;if"""
+a = 10
+b = 20
+print(a+b)
