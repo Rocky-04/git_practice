@@ -15,4 +15,4 @@ jobs:
         git config --global user.name "Rocky-04"
         git config --global user.email "olegtsynkovskiy@gmail.com"
         git commit --allow-empty -m "Daily commit $(date +'%Y-%m-%d')"
-        git push origin HEAD:main
+        git push origin HEAD:master
